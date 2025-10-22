@@ -50,7 +50,7 @@ const Navbar = () => {
             className="object-cover w-full h-full"
           />
         </div>
-        Opensox AI
+       <a href='/'>Opensox AI</a> 
       </div>
       <div className="hidden md:flex items-center gap-5 tracking-tight text-lg font-light text-[#d1d1d1]">
         {links.map((link, index) => {

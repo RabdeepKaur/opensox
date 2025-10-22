@@ -46,10 +46,10 @@ const Footer = () => {
           </div>
 
           {/* Grid Layout - Right */}
-          <div className="grid grid-cols-3 gap-6 lg:gap-8">
+          <div className="grid grid-cols-3 gap-6 lg:gap-8 p-3">
             {/* Sitemap Column */}
             <div>
-              <h3 className="text-white text-sm lg:text-base font-medium mb-2">
+              <h3 className="text-white text-sm lg:text-base font-medium mb-1">
                 Platform
               </h3>
               <div className="flex flex-col gap-2">
